@@ -3,7 +3,7 @@
 This module for Magisk will change the system props of your device on [Asus Rog Phone 3](https://rog.asus.com/ru/phones/rog-phone-3-model/). This will unlock the FPS limit in your games.
 
 ## Requirements
-- [Magisk v20.4+[](https://github.com/topjohnwu/Magisk/releases)
+- [Magisk v20.4+](https://github.com/topjohnwu/Magisk/releases)
 
 ## Installation
 1. Flash this module.
